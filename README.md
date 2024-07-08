@@ -1,4 +1,4 @@
-BandName Generator
+##BandName Generator
 Overview
 The BandName Generator is a web application built using Node.js, Express.js, and EJS templating. It generates random band names based on user inputs or predefined criteria.
 
